@@ -1,1 +1,1 @@
-Trying to put in my daily learnings in this place.
+Trying to put in my daily learnings in this repository.
